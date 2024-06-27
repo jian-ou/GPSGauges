@@ -7,6 +7,3 @@
 [submodule "WinSimlvgl"]
 	path = WinSimlvgl
 	url = https://github.com/jian-ou/lvgl-windows-sim-vscode-master.git
-[submodule "lvgl-windows-sim-vscode-master"]
-	path = lvgl-windows-sim-vscode-master
-	url = https://github.com/jian-ou/lvgl-windows-sim-vscode-master.git
