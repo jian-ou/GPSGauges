@@ -10,3 +10,6 @@
 [submodule "X-TRACK"]
 	path = X-TRACK
 	url = https://github.com/FASTSHIFT/X-TRACK.git
+[submodule "AT_ANT"]
+	path = AT_ANT
+	url = https://github.com/jian-ou/AT_ANT.git
